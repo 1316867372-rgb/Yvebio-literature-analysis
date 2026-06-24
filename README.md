@@ -31,7 +31,7 @@
 
 ### 1. 安装 Skill
 
-将 `biomed-literature-analysis.skill` 放入 WorkBuddy skills 目录。
+将 `biomed-literature-analysis.skill` 放入 Agent（比如Openclaw、WorkBuddy等) skills 目录。
 
 ### 2. 安装依赖
 
